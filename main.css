@@ -8,9 +8,6 @@
 h1{
 	color: var(--main-orange);
 }
-h2{
-	color: var(--main-orange);
-}
-h3{
+p{
 	color: var(--main-navy);
 }
