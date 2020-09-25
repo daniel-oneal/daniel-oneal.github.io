@@ -1,1 +1,16 @@
+:root{
+	--main-orange: #e16539;
+	--main-navy: #13274e;
+	--main-text: #777777;
+	--main-link-color: #43677e;
+};
 
+h1{
+	color: var(--main-orange);
+}
+h2{
+	color: var(--main-orange);
+}
+h3{
+	color: var(--main-navy);
+}
