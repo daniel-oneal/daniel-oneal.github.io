@@ -4,3 +4,12 @@ h1{
 p{
 	color: #444444;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #dddddd;
+}
+li a {
+  display: inline;
+}
